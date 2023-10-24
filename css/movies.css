@@ -43,12 +43,7 @@ nav ul li a:hover {
   background-color: #555;
 }
 
-section p {
-  text-align: center; 
-  margin: 0 auto; 
-}
-
-iframe {
-  display: block;
-  margin: 0 auto;
+section p, section iframe, section h3, section img {
+  text-align: center; /* Center the text and elements */
+  margin: 0 auto; /* Center the entire section */
 }
