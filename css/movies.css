@@ -5,6 +5,11 @@ body {
   font-family: 'Roboto Condensed', sans-serif; /* Font for the rest of the information */
 }
 
+/*increasing the font size of the basic information*/
+body p {
+  font-size: 150%;
+}
+
 section h3 {
   font-family: 'Tilt Neon', sans-serif; /* Font for section titles */
 }
