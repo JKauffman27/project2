@@ -15,8 +15,10 @@ section {
 }
 
 nav ul {
-  list-style-type: none;
-  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 1em 0;
 }
 
 nav ul li {
