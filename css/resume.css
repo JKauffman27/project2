@@ -60,6 +60,10 @@ h1, h2 {
   padding: 1em;
 }
 
+#experience {
+  margin-bottom: 20px;
+}
+
 #skills {
   padding: 1em;
 }
