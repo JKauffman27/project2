@@ -1,0 +1,63 @@
+/* Reset default margin and padding on all elements */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set the background color to light grey */
+body {
+  background-color: #f0f0f0;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center; 
+}
+
+/* Style the header and navigation bar */
+header {
+  background-color: #333; 
+  color: #fff; 
+}
+
+/* Center-align the navigation links */
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 1em 0;
+}
+
+nav ul li {
+  margin: 0 1em;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+}
+
+h1, h2 {
+  margin: 1em 0;
+}
+
+#personal-information {
+  padding: 1em;
+}
+
+#summary {
+  padding: 1em;
+}
+
+#education {
+  padding: 1em;
+}
+
+#experience {
+  padding: 1em;
+}
+
+#skills {
+  padding: 1em;
+}
+
+#volunteer-work {
+  padding: 1em;
+}
