@@ -1,80 +1,56 @@
-/* Reset default margin and padding on all elements */
 * {
-  margin: 0;
-  padding: 0;
+margin : 0;
+padding : 0;
 }
-
-/* Set the background color to light grey */
 body {
-  background-color: #f0f0f0;
-  font-family: 'Montserrat', sans-serif;
-  text-align: center;
-  font-size: 120%;  
+background-color : #f0f0f0;
+font-family : 'Montserrat', sans-serif;
+text-align : center;
+font-size : 120%;
 }
-
-/* Adds spaces between each of the sections*/
 section {
-  margin-bottom: 20px
+margin-bottom : 20px;
 }
-
-/* Style the header and navigation bar */
-header {
-  background-color: ##464141; 
-  color: #fff; 
-}  
-
 nav ul {
-  list-style-type: none;
-  padding: 0;
+list-style-type : none;
+padding : 0;
 }
-
 nav ul li {
-  display: inline;
-  margin-right: 20px;
+display : inline;
+margin-right : 20px;
 }
-
-/*Adding some styling*/
 nav ul li a {
-  text-decoration: none;
-  background-color: #333;
-  color: #fff;
-  padding: 10px 20px;
-  border-radius: 5px;
-  transition: background-color 0.3s;
+text-decoration : none;
+background-color : #333;
+color : #fff;
+padding : 10px 20px;
+border-radius : 5px;
+transition : background-color 0.3s;
 }
-
 nav ul li a:hover {
-  background-color: #555;
+background-color : #555;
 }
-
 h1, h2 {
-  margin: 1em 0;
+margin : 1em 0;
 }
-
 #personal-information {
-  padding: 1em;
+padding : 1em;
 }
-
 #summary {
-  padding: 1em;
+padding : 1em;
 }
-
 #education {
-  padding: 1em;
+padding : 1em;
 }
-
 #experience {
-  padding: 1em;
+padding : 1em;
 }
-
 #experience h4 {
-  margin-top: 20px;    
-} 
-
-#skills {
-  padding: 1em;
+margin-top : 20px;
 }
-
+#skills {
+padding : 1em;
+}
 #volunteer-work {
-  padding: 1em;
+padding : 1em;
 }
