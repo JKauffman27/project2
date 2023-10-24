@@ -1,0 +1,29 @@
+/*Centers the information*/
+body {
+  text-align: center;
+  background-color: #a0d8f4; /* Baby Blue background color */
+  font-family: 'Roboto Condensed', sans-serif; /* Font for the rest of the information */
+}
+
+section h3 {
+  font-family: 'Tilt Neon', sans-serif; /* Font for section titles */
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
