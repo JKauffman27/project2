@@ -1,13 +1,9 @@
 /*Centers the information*/
 body {
   text-align: center;
-  background-color: #a0d8f4; /* Baby Blue background color */
-  font-family: 'Roboto Condensed', sans-serif; /* Font for the rest of the information */
-}
-
-/*increasing the font size of the basic information*/
-body p {
-  font-size: 150%;
+  background-color: #a0d8f4; /*Baby blue color*/
+  font-family: 'Lato', sans-serif; 
+  font-size: 120%;
 }
 
 section h3 {
