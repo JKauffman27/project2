@@ -23,8 +23,6 @@ body {
 
 section {
   margin-bottom: 20px;
-  border: 1px solid #ddd;
-  padding: 10px;
 }
 
 nav ul {
@@ -68,26 +66,38 @@ section img {
 
 #summary {
   padding: 1em;
+  border: 1px solid #ddd;
+  padding: 10px;
 }
 
 #education {
   padding: 1em;
+  border: 1px solid #ddd;
+  padding: 10px;
 }
 
 #experience {
   padding: 1em;
+  border: 1px solid #ddd;
+  padding: 10px;
 }
 
 #experience h4 {
   margin-top: 20px;
+  border: 1px solid #ddd;
+  padding: 10px;
 }
 
 #skills {
   padding: 1em;
+  border: 1px solid #ddd;
+  padding: 10px;
 }
 
 #volunteer-work {
   padding: 1em;
+  border: 1px solid #ddd;
+  padding: 10px;
 }
 
 /* Movies-specific styles */
