@@ -13,8 +13,16 @@ body {
   background-color : #e96851;
 }
 
+#games h1, h3 {
+  font-weight: bold;
+}
+
 #movies {
   background-color : #a0d8f4;
+}
+
+#movies h1, h3 {
+  font-weight: bold;
 }
 
 #resume {
@@ -23,6 +31,7 @@ body {
 
 section {
   margin-bottom: 20px;
+  margin-top: 10px;
 }
 
 nav ul {
@@ -60,44 +69,25 @@ section img {
 }
 
 /* Resume-specific styles */
-#personal-information {
-  padding: 1em;
-}
-
-#summary {
-  padding: 1em;
-  border: 1px solid #ddd;
-  padding: 10px;
-}
-
-#education {
-  padding: 1em;
-  border: 1px solid #ddd;
-  padding: 10px;
-}
-
-#experience {
-  padding: 1em;
-  border: 1px solid #ddd;
-  padding: 10px;
-}
-
-#experience h4 {
-  margin-top: 20px;
-  border: 1px solid #ddd;
-  padding: 10px;
-}
-
-#skills {
-  padding: 1em;
-  border: 1px solid #ddd;
-  padding: 10px;
-}
-
+#summary,
+#education,
+#experience,
+#experience h4,
+#skills,
 #volunteer-work {
   padding: 1em;
+  display: inline-block; 
   border: 1px solid #ddd;
   padding: 10px;
+}
+
+#summary h2,
+#education h2,
+#experience h2,
+#experience h4,
+#skills h2,
+#volunteer-work h2 {
+  font-weight: bold;
 }
 
 /* Movies-specific styles */
