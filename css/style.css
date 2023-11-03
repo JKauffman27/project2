@@ -107,7 +107,7 @@ section img {
 #spiderverse,
 #darkknight,
 #hachi {
-  text-align: left;
+  text-align: center;
 }
 
 /* Games-specific styles */
@@ -116,7 +116,7 @@ section img {
 #left_4_dead_2,
 #super_mario_galaxy,
 #outlast {
-  text-align: left;
+  text-align: center;
 }
 
 /* Game-specific styles */
