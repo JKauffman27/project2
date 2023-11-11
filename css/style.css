@@ -13,12 +13,20 @@ body {
   background-color : #e96851;
 }
 
+#games h1 {
+  margin-top: 50px;
+}
+
 #games h1, h3 {
   font-weight: bold;
 }
 
 #movies {
   background-color : #a0d8f4;
+}
+
+#movies h1 {
+  margin-top: 50px;
 }
 
 #movies h1, h3 {
@@ -31,7 +39,7 @@ body {
 
 section {
   margin-bottom: 20px;
-  margin-top: 60px;
+  margin-top: 30px;
 }
 
 nav ul {
